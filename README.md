@@ -4,8 +4,8 @@
     <h3>Who am I ?</h3>
 </center>
 
-```
-skyhero@home:~$ cat about.conf
+```console
+$ cat /etc/profile.txt
 
 Heyo! I'm a 20y old developer from the Mumbai, India. I care about performant, accessible code.
 I'm a huge fan of building, breaking and contributing to open source & you can sponsor me on GitHub.
