@@ -4,8 +4,8 @@
     <h3>Who am I ?</h3>
 </center>
 
-```shell
-> skyhero@bentobox:~$ cat about.conf
+```
+skyhero@home:~$ cat about.conf
 
 Heyo! I'm a 20y old developer from the Mumbai, India. I care about performant, accessible code. I'm a huge fan of building, breaking and contributing to open source & you can sponsor me on GitHub. I have been programming for the past 3 years, I've learned a lot about core programming principles, web development, bots, etc.
 
