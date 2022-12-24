@@ -25,4 +25,4 @@ I've learned a lot about core programming principles, web development, bots, etc
 You can get in touch with me on the followng platforms
 
 - [LinkedIn](https://linkedin.com/in/skyhero)
-- [Twitter](https://twitter.com/Skyhero_alt)
+- [Twitter](https://twitter.com/Skyhero_root)
