@@ -17,11 +17,6 @@ I've learned a lot about core programming principles, web development, bots, etc
 - One of  my favurite tool these day is Docker
 ```
 
-```shell
-> echo This is Skyhero-admin's alt account as it got flagged for some unknown reason
-> I Will be using this account until I get back my old account
-```
-
 You can get in touch with me on the followng platforms
 
 - [LinkedIn](https://linkedin.com/in/skyhero)
