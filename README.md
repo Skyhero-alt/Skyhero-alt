@@ -14,7 +14,7 @@ I've learned a lot about core programming principles, web development, bots, etc
 
 - I am learning about scaling, system architecture and web3 these days.
 
-- One of my favourite tools these day is Docker
+- One of my favourite tools these days is Docker
 ```
 
 You can get in touch with me on the followng platforms
