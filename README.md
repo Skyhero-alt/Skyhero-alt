@@ -7,7 +7,7 @@
 ```console
 $ cat /etc/profile.txt
 
-Heyo! I'm a 21y old developer from the Mumbai, India. I care about performant, accessible code.
+Heyo! I'm a 23y old developer from the Mumbai, India. I care about performant, accessible code.
 I'm a huge fan of building, breaking and contributing to open source & you can sponsor me on GitHub.
 I have been programming for the past 4 years,
 I've learned a lot about core programming principles, web development, bots, etc.
